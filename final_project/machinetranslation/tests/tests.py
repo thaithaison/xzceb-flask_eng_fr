@@ -1,6 +1,6 @@
 """Run from command line:
 
-$ python -m unittest tests/test_translator.py 
+$ python -m unittest tests/tests.py 
 
 """
 

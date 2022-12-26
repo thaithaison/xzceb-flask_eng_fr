@@ -23,8 +23,8 @@ def french_to_english():
     return translator.french_to_english(text_to_translate)
 
 @app.route("/")
-def renderIndexPage():
-     """
+def render_index_page():
+    """
     This function render the start page.
     """
     # Write the code to render template
